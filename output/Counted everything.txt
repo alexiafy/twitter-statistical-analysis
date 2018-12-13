@@ -1,0 +1,15 @@
+All real accounts: 25
+Used real accounts: 21
+All fake accounts: 53
+Used fake accounts: 20
+
+All real tweets: 13002
+All real replies: 47430
+All fake tweets: 12502
+All fake replies: 45960
+
+Used real tweets: 4270
+Used real replies: 47430
+Used fake tweets: 3073
+Used fake replies: 45960
+
